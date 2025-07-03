@@ -85,15 +85,6 @@ go run main.go
 ```bash
 go run tester.go
 ```
-
----
-
-## 🎥 Demo Video
-
-- Explains project architecture, how to run, and a full demo of API interactions
-- Separate video shows digital signature verification
-- Both are embedded in `Project4_Report.pdf` and submitted as `.mp4` files
-
 ---
 
 ## 📊 Performance Metrics (Sample)
@@ -103,13 +94,6 @@ go run tester.go
 | 1000  | 700    | 5000  | 12520    | 20k+  | ~9500 ops/sec |
 
 ---
-
-## 📝 Submission
-
-- Submit `project4.zip` or `project4.tgz` (code + demo video)
-- Submit `Project4_Report.pdf` separately
-- Submit `project4-bonus.zip` only if bonus implemented
-- Add YouTube video link and both member names in Canvas comments
 
 ---
 
