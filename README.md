@@ -99,5 +99,4 @@ go run tester.go
 
 ## 📜 License
 
-Course: COP 5536 — Advanced Data Structures, Fall 2024  
-Use: For academic demonstration purposes only.
+Course: DOSP  
